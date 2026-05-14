@@ -1,0 +1,14 @@
+Job ID:    47045090
+Node:      gpu101-02-l
+GPU info:  NVIDIA A100-SXM4-80GB, 81920 MiB
+Python:    Python 3.12.9 at /home/radwany/UdacityStuff/work/project1/venv/bin/python
+Start:     Thu May 14 07:01:46 PM +03 2026
+Notebook executed. Now packaging results.
+'executed_gen_ai_fundamentals_project_starter.ipynb' -> '/home/radwany/UdacityStuff/deliverables/project1/executed_gen_ai_fundamentals_project_starter.ipynb'
+'gen_ai_fundamentals_project_starter.ipynb' -> '/home/radwany/UdacityStuff/deliverables/project1/gen_ai_fundamentals_project_starter.ipynb'
+'grpo_saved_lora' -> '/home/radwany/UdacityStuff/deliverables/project1/grpo_saved_lora'
+'grpo_saved_lora/adapter_model.safetensors' -> '/home/radwany/UdacityStuff/deliverables/project1/grpo_saved_lora/adapter_model.safetensors'
+'grpo_saved_lora/README.md' -> '/home/radwany/UdacityStuff/deliverables/project1/grpo_saved_lora/README.md'
+'grpo_saved_lora/adapter_config.json' -> '/home/radwany/UdacityStuff/deliverables/project1/grpo_saved_lora/adapter_config.json'
+'/home/radwany/UdacityStuff/cd13303-genai-c1-classroom/project/requirements.txt' -> '/home/radwany/UdacityStuff/deliverables/project1/requirements.txt'
+End time: Thu May 14 07:12:32 PM +03 2026
